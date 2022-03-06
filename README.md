@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ammmora
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ammmora/ammmora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i love shawerma and i love the cat
+and mariam is hit me
+and im and my dad need to play xbox
